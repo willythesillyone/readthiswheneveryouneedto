@@ -1,15 +1,3 @@
-/*
-
-    ©️ 2023 upio
-
-    written by upio inspired by a tiktok video 
-    i was bored ok idek why im doing this 💀
-
-    https://www.upio.dev
-    https://e-z.bio/upio
-
-*/
-
 const local_dev_cors_message = `<br><br><strong>Possible Fixes:</strong><br>This might be a problem with <i>CORS</i> policy, to fix please host the website on any hosting software like <a href="https://vercel.com/" target="_blank">Vercel</a>, Github Pages, <a href="https://cloudflare.com/" target="_blank">Cloudflare Pages</a> etc.`
 
 // markdown it on top (real)
